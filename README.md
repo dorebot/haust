@@ -8,8 +8,11 @@ Haust Network Automated Faucet and NFT mining Script
 # Features 
 
 ✅ Automated EVM Private keys Generation
+
 ✅ Automated Faucet claim using proxies
-✅ Automated NFT #1 and #2 Minintg 
+
+✅ Automated NFT #1 and #2 Minting 
+
 ✅ Automated Logs multi threading 
 
 # SETPS TO RUN THE CODE
