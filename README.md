@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/fb0d7742-565b-4226-a1f7-374b12e1d510)# haust
+# Haust
 
 Haust Network Automated Faucet and NFT mining Script
 
